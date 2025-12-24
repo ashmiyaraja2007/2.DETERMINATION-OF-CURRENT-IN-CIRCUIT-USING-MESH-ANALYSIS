@@ -46,16 +46,6 @@
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 **MARKS SPLIT UP:**
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2f19c231-6625-45c7-bebe-914891ef8157" />
+ <img width="1600" height="1006" alt="image" src="https://github.com/user-attachments/assets/787ced40-1f45-48e0-ba61-60d4694777d1" />
 
-
-   **RESULT:**
-
-Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
-
-a)	The current across 330Ω resistor is	A.
-
-b)	The current across 560Ω resistor is	A.
-
-c)	The current across 470Ω resistor is	A.
 
