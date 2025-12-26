@@ -48,5 +48,9 @@
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 **MARKS SPLIT UP:**
  <img width="1600" height="1006" alt="image" src="https://github.com/user-attachments/assets/787ced40-1f45-48e0-ba61-60d4694777d1" />
+ **RESULT:**
+  	A)The current across 330 ohm resistor is:1.22A
+  	b)The current across  560 ohm resistor is:5.551A
+  	c)The current across 470 ohm resistor is:-4.41A
 
 
